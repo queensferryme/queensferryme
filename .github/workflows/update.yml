@@ -1,0 +1,22 @@
+name: update
+
+on:
+  schedule:
+    - cron:  '0 * * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check-out
+      uses: actions/checkout@v2
+
+    - name: Update
+      run: curl https://raw.githubusercontent.com/queensferryme/blog/master/content/about.md | tail -n +6 > README.md
+
+    - name: Push
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+        github_token: ${{ secrets.TOKEN }}
+
