@@ -7,12 +7,13 @@
 
 🤖 Interested in Machine Learning, Deep Learning etc. Currently working on a bachelor's degree.
 
-💻 Also an underdeveloped web developer, with some experience in [Docker](https://www.docker.com/), [Flask](https://github.com/pallets/flask), [Gin](https://github.com/gin-gonic/gin), [Nginx](https://github.com/nginx/nginx), [Vue](https://github.com/vuejs/vue).
+💻 Also an underdeveloped web developer, with some experience in [Docker](https://www.docker.com/), [PostgreSQL](https://www.postgresql.org/), [FastAPI](https://github.com/tiangolo/fastapi), [Vue](https://github.com/vuejs/vue).
 
-🔥 Mostly use C++, Golang, JavaScript, Python. Want to learn Rust, Haskell and much more.
+🔥 Mostly use Python, JavaScript and Rust. Want to learn Julia, Haskell and much more.
 
 🌊 History / Philosophy / Politics are my hobbies other than Technologies.
 
 ## Projects
 
-- [hugo-theme-texify](https://github.com/queensferryme/hugo-theme-texify)：A minimal, latex-style hugo theme for personal blogging.
+- [hugo-theme-texify](https://github.com/queensferryme/hugo-theme-texify): A minimal, latex-style hugo theme for personal blogging.
+- [RSSHub](https://github.com/DIYgod/RSSHub): I am a contributor of RSSHub and I host my own RSSHub [instance](https://rsshub.qufy.me). Feel free to use!
