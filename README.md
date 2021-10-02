@@ -19,3 +19,4 @@
 - [RSSerpent](https://github.com/RSSerpent/RSSerpent): 🐍 This snake helps you reconnect the Web, with RSS feeds!
 - [flake8-too-many](https://github.com/queensferryme/flake8-too-many): A flake8 plugin that prevents you from writing "too many" bad codes.
 - [hugo-theme-texify](https://github.com/queensferryme/hugo-theme-texify): A minimal, latex-style hugo theme for personal blogging.
+
